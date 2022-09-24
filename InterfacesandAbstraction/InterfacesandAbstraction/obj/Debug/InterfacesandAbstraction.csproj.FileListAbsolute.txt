@@ -1,0 +1,6 @@
+C:\Users\Simitchiev\source\repos\InterfacesandAbstraction\InterfacesandAbstraction\bin\Debug\InterfacesandAbstraction.exe
+C:\Users\Simitchiev\source\repos\InterfacesandAbstraction\InterfacesandAbstraction\bin\Debug\InterfacesandAbstraction.pdb
+C:\Users\Simitchiev\source\repos\InterfacesandAbstraction\InterfacesandAbstraction\obj\Debug\InterfacesandAbstraction.csproj.AssemblyReference.cache
+C:\Users\Simitchiev\source\repos\InterfacesandAbstraction\InterfacesandAbstraction\obj\Debug\InterfacesandAbstraction.csproj.CoreCompileInputs.cache
+C:\Users\Simitchiev\source\repos\InterfacesandAbstraction\InterfacesandAbstraction\obj\Debug\InterfacesandAbstraction.exe
+C:\Users\Simitchiev\source\repos\InterfacesandAbstraction\InterfacesandAbstraction\obj\Debug\InterfacesandAbstraction.pdb
