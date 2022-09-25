@@ -1,0 +1,6 @@
+C:\Users\Simitchiev\source\repos\InterfacesandAbstractionCars\InterfacesandAbstractionCars\bin\Debug\InterfacesandAbstractionCars.exe
+C:\Users\Simitchiev\source\repos\InterfacesandAbstractionCars\InterfacesandAbstractionCars\bin\Debug\InterfacesandAbstractionCars.pdb
+C:\Users\Simitchiev\source\repos\InterfacesandAbstractionCars\InterfacesandAbstractionCars\obj\Debug\InterfacesandAbstractionCars.csproj.AssemblyReference.cache
+C:\Users\Simitchiev\source\repos\InterfacesandAbstractionCars\InterfacesandAbstractionCars\obj\Debug\InterfacesandAbstractionCars.csproj.CoreCompileInputs.cache
+C:\Users\Simitchiev\source\repos\InterfacesandAbstractionCars\InterfacesandAbstractionCars\obj\Debug\InterfacesandAbstractionCars.exe
+C:\Users\Simitchiev\source\repos\InterfacesandAbstractionCars\InterfacesandAbstractionCars\obj\Debug\InterfacesandAbstractionCars.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfacesandAbstractionCars", "InterfacesandAbstractionCars\InterfacesandAbstractionCars.csproj", "{0A438E82-1598-4BB6-BDFD-5034C20FECAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A438E82-1598-4BB6-BDFD-5034C20FECAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A438E82-1598-4BB6-BDFD-5034C20FECAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A438E82-1598-4BB6-BDFD-5034C20FECAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A438E82-1598-4BB6-BDFD-5034C20FECAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5EA4746-BD0E-48F2-AA6B-A59F247EC8DA}
+	EndGlobalSection
+EndGlobal
