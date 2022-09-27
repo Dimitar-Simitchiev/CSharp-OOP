@@ -1,0 +1,6 @@
+C:\Users\Simitchiev\source\repos\LabPolymorphism\LabPolymorphism\bin\Debug\LabPolymorphism.exe
+C:\Users\Simitchiev\source\repos\LabPolymorphism\LabPolymorphism\bin\Debug\LabPolymorphism.pdb
+C:\Users\Simitchiev\source\repos\LabPolymorphism\LabPolymorphism\obj\Debug\LabPolymorphism.csproj.AssemblyReference.cache
+C:\Users\Simitchiev\source\repos\LabPolymorphism\LabPolymorphism\obj\Debug\LabPolymorphism.csproj.CoreCompileInputs.cache
+C:\Users\Simitchiev\source\repos\LabPolymorphism\LabPolymorphism\obj\Debug\LabPolymorphism.exe
+C:\Users\Simitchiev\source\repos\LabPolymorphism\LabPolymorphism\obj\Debug\LabPolymorphism.pdb
