@@ -1,0 +1,8 @@
+C:\Users\Simitchiev\source\repos\ReflectionConsole\ReflectionConsole\bin\Debug\ReflectionConsole.exe.config
+C:\Users\Simitchiev\source\repos\ReflectionConsole\ReflectionConsole\bin\Debug\ReflectionConsole.exe
+C:\Users\Simitchiev\source\repos\ReflectionConsole\ReflectionConsole\bin\Debug\ReflectionConsole.pdb
+C:\Users\Simitchiev\source\repos\ReflectionConsole\ReflectionConsole\obj\Debug\ReflectionConsole.csproj.AssemblyReference.cache
+C:\Users\Simitchiev\source\repos\ReflectionConsole\ReflectionConsole\obj\Debug\ReflectionConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\Simitchiev\source\repos\ReflectionConsole\ReflectionConsole\obj\Debug\ReflectionConsole.csproj.CoreCompileInputs.cache
+C:\Users\Simitchiev\source\repos\ReflectionConsole\ReflectionConsole\obj\Debug\ReflectionConsole.exe
+C:\Users\Simitchiev\source\repos\ReflectionConsole\ReflectionConsole\obj\Debug\ReflectionConsole.pdb
