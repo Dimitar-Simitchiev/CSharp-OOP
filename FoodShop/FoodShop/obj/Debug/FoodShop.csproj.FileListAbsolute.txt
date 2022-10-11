@@ -1,0 +1,8 @@
+C:\Users\Simitchiev\source\repos\FoodShop\FoodShop\bin\Debug\FoodShop.exe.config
+C:\Users\Simitchiev\source\repos\FoodShop\FoodShop\bin\Debug\FoodShop.exe
+C:\Users\Simitchiev\source\repos\FoodShop\FoodShop\bin\Debug\FoodShop.pdb
+C:\Users\Simitchiev\source\repos\FoodShop\FoodShop\obj\Debug\FoodShop.csproj.AssemblyReference.cache
+C:\Users\Simitchiev\source\repos\FoodShop\FoodShop\obj\Debug\FoodShop.csproj.SuggestedBindingRedirects.cache
+C:\Users\Simitchiev\source\repos\FoodShop\FoodShop\obj\Debug\FoodShop.csproj.CoreCompileInputs.cache
+C:\Users\Simitchiev\source\repos\FoodShop\FoodShop\obj\Debug\FoodShop.exe
+C:\Users\Simitchiev\source\repos\FoodShop\FoodShop\obj\Debug\FoodShop.pdb
