@@ -1,0 +1,8 @@
+C:\Users\Simitchiev\source\repos\Tic-Tac-Toes\Tic-Tac-Toes\bin\Debug\Tic-Tac-Toes.exe.config
+C:\Users\Simitchiev\source\repos\Tic-Tac-Toes\Tic-Tac-Toes\bin\Debug\Tic-Tac-Toes.exe
+C:\Users\Simitchiev\source\repos\Tic-Tac-Toes\Tic-Tac-Toes\bin\Debug\Tic-Tac-Toes.pdb
+C:\Users\Simitchiev\source\repos\Tic-Tac-Toes\Tic-Tac-Toes\obj\Debug\Tic-Tac-Toes.csproj.AssemblyReference.cache
+C:\Users\Simitchiev\source\repos\Tic-Tac-Toes\Tic-Tac-Toes\obj\Debug\Tic-Tac-Toes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Simitchiev\source\repos\Tic-Tac-Toes\Tic-Tac-Toes\obj\Debug\Tic-Tac-Toes.csproj.CoreCompileInputs.cache
+C:\Users\Simitchiev\source\repos\Tic-Tac-Toes\Tic-Tac-Toes\obj\Debug\Tic-Tac-Toes.exe
+C:\Users\Simitchiev\source\repos\Tic-Tac-Toes\Tic-Tac-Toes\obj\Debug\Tic-Tac-Toes.pdb
